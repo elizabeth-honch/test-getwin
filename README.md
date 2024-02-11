@@ -1,7 +1,6 @@
 # Test work - Getwin
 
-[DEMOLINK]()
-
+[DEMOLINK](https://elizabeth-honch.github.io/test_getwin)
 
 ## Available Scripts
 
