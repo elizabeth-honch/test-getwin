@@ -1,0 +1,36 @@
+.pokemon {
+  &__title {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  &__label {
+    color: #7077A1;
+    margin-bottom: 10px;
+  }
+  &__value {
+    padding-left: 5px;
+    text-transform: capitalize;
+    color: #424769;
+    font-weight: 500;
+  }
+  &__error {
+    color: #D04848;
+  }
+  &__active {
+    font-weight: 500;
+  }
+  &__link {
+    font-size: 16px;
+    padding: 0;
+  }
+  &__type {
+    text-transform: capitalize;
+    padding-right: 5px;
+  }
+}
+.carousel {
+  height: 150px;
+  color: #fff;
+  line-height: 150px;
+  text-align: center;
+}
