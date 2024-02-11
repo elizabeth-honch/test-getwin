@@ -2,7 +2,7 @@
   "name": "test-getwin",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://elizabeth-honch.github.io/test-getwin",
+  "homepage": "https://elizabeth-honch.github.io/test_getwin",
   "dependencies": {
     "@reduxjs/toolkit": "^2.1.0",
     "@testing-library/jest-dom": "^5.17.0",
