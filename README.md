@@ -1,7 +1,5 @@
 # Test work - Getwin
 
-[DEMOLINK](https://elizabeth-honch.github.io/test_getwin)
-
 ## Available Scripts
 
 ### `npm install`
